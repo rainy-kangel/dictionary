@@ -1,2 +1,3 @@
 # Description
-Bilingual dictionary for Northern-Somali dialect.
+A bilingual dictionary for English-Somali speakers.
+Specialized for the Northern dialect. 
